@@ -1,0 +1,60 @@
+table#gran{
+    width: 1920px;
+    text-align: center;
+    padding: 15px;
+}
+table.tod{
+    width: 100%;
+}
+td.der{
+    text-align: right;
+    width: 50%;
+}
+p.tex{
+    text-align: center;
+    margin: 5px;
+}
+tr.cen{
+    text-align: center;
+}
+td.par {
+    width: 33%;
+}
+tr#coll{
+    background-color: brown;
+    border-radius: 43px 43px 43px 43px;
+-moz-border-radius: 43px 43px 43px 43px;
+-webkit-border-radius: 43px 43px 43px 43px;
+border: 0px solid #000000;
+}
+td.col{
+    background-color: brown;
+    border-radius: 43px 43px 43px 43px;
+-moz-border-radius: 43px 43px 43px 43px;
+-webkit-border-radius: 43px 43px 43px 43px;
+border: 0px solid #000000;
+}
+td#col{
+    background-color: brown;
+    border-radius: 43px 43px 43px 43px;
+-moz-border-radius: 43px 43px 43px 43px;
+-webkit-border-radius: 43px 43px 43px 43px;
+border: 0px solid #000000;
+}
+tr.col{
+    background-color: brown;
+    border-radius: 43px 43px 43px 43px;
+-moz-border-radius: 43px 43px 43px 43px;
+-webkit-border-radius: 43px 43px 43px 43px;
+border: 0px solid #000000;
+}
+embed{
+    width: 1920px;
+    height: 1080px;
+}
+table#gran2{
+    width: 1920px;
+    height: 1080px;
+    text-align: center;
+    padding: 15px;
+}
